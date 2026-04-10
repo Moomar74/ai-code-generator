@@ -1,0 +1,40 @@
+[
+  {
+    "method": "GET",
+    "path": "/entity1"
+  },
+  {
+    "method": "POST",
+    "path": "/entity1",
+    "description": "Create Entity1"
+  },
+  {
+    "method": "PUT",
+    "path": "/entity1/{id}",
+    "description": "Update Entity1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/entity1/{id}",
+    "description": "Delete Entity1 by id"
+  },
+  {
+    "method": "GET",
+    "path": "/entity2"
+  },
+  {
+    "method": "POST",
+    "path": "/entity2",
+    "description": "Create Entity2"
+  },
+  {
+    "method": "PUT",
+    "path": "/entity2/{id}",
+    "description": "Update Entity2"
+  },
+  {
+    "method": "DELETE",
+    "path": "/entity2/{id}",
+    "description": "Delete Entity2 by id"
+  }
+]
